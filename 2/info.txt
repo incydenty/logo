@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: YoungSerif-Regular
+font link: https://github.com/uplaod/YoungSerif
+font author: Bastien Sozeau
+font author site: http://sozoo.fr/
+
+
+icon designer: Jorge Reyes
+icon designer link: /jorge.reyes.798278
+        
+
+fontColor: {"gradient-0":"#E6D6D6","gradient-1":"#C21414"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#E6D6D6","gradient-1":"#C21414"}
+
+      
