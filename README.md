@@ -1,6 +1,6 @@
 # logo
-logo.incydenty.pl/
 
+[logo.incydenty.pl](https://logo.incydenty.pl/)
 
 ## Font
 
