@@ -2,6 +2,7 @@
 logo.incydenty.pl/
 
 
+## Font
 
 Font in use <a target="_blank" href="https://github.com/uplaod/YoungSerif">YoungSerif-Regular</a> designed by
 <a target="_blank" href="http://sozoo.fr/">Bastien Sozeau</a>
@@ -12,21 +13,32 @@ Icon Designed by
 
 
 
-✕
+## Colors 
 
-Font
-#C21414, #D3A1A1
-+
+### Font
 
-Slogan
-#ffffff
-+
+    #C21414, #D3A1A1
+    
 
-Background
-transparent
-✕
+### Background
+    
+      transparent
 
-Icon
-#E6D6D6, #C21414
+### Icon
+
+    #E6D6D6, #C21414
+
+
+
+# Logo
+
+## 1
+![1/cover.png](1/cover.png)
+
+## 2
+![2/cover.png](2/cover.png)
+
+## 3
+![3/cover.png](3/cover.png)
 
 
